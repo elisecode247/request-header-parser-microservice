@@ -1,0 +1,11 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "0.0.0",
+  "description": "second freecodecamp's back end api project",
+  "main": "server.js",
+  "repository": "",
+  "author": "elisecode247@gmail.com",
+  "dependencies": {
+    "express": "~3.2.4"
+  }
+}
